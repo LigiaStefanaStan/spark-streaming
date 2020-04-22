@@ -1,12 +1,12 @@
 # Spark Streaming
 Project to play around with Spark streaming
 
-##Setting up Kafka
+## Setting up Kafka
 - install Kafka on Mac with brew
     - ```brew install kafka```
     
-##Content
-###Spark streaming with Kafka
+## Content
+### Spark streaming with Kafka
 - ```part4integrations``` package
     - playing around with exercises from Udemy course (Apache Spark Streaming 3 with Scala | Rock the JVM)
     
